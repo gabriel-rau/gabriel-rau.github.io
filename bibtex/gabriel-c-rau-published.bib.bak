@@ -1125,14 +1125,14 @@
   year          = {2016},
   organization  = {Sydney, NSW},
   __markedentry = {[z3229417:6]},
-  conference    = {International Conference on Porous Media & First Annual Meeting of Australian Chapter of InterPore},
+  booktitle     = {International Conference on Porous Media \& First Annual Meeting of Australian Chapter of InterPore},
   finishday     = {2},
   finishmonth   = {Dec},
   finishyear    = {2016},
   startday      = {30},
   startmonth    = {Nov},
   startyear     = {2016},
-  type          = {Conference presentation},
+  type          = {Conference poster},
 }
 
 @Conference{Andersen-2016,
