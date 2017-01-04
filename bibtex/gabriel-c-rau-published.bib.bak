@@ -855,7 +855,7 @@
   year      = {2010},
   note      = {Workshop},
   booktitle = {Namoi Groundwater Forum (organised by The Namoi Catchment Management Authority and the Cotton Catchment Communities CRC)},
-  date      = {3 Dec 2010},
+  date      = {2010-12-03},
   location  = {Tamworth, Australia},
   name      = {Namoi Groundwater Forum (organised by The Namoi Catchment Management Authority and the Cotton Catchment Communities CRC)},
   type      = {Workshop},
@@ -867,7 +867,7 @@
   year      = {2009},
   note      = {Workshop},
   booktitle = {Cotton Catchment Communities CRC},
-  date      = {17-19 August 2009},
+  datespan  = {17-19 August 2009},
   location  = {Narrabri, Australia},
   name      = {Cotton Catchment Communities CRC},
   type      = {Workshop},
@@ -901,7 +901,7 @@
   month  = {24 Sept 2010},
   year   = {2010},
   note   = {Outreach presentation},
-  date   = {24 Sept 2010},
+  date   = {2010-09-24},
   type   = {Outreach presentation},
 }
 
@@ -911,7 +911,7 @@
   month  = {15 Jul 2010},
   year   = {2010},
   note   = {Outreach presentation},
-  date   = {15 Jul 2010},
+  date   = {2010-07-15},
   type   = {Outreach presentation},
 }
 
@@ -921,7 +921,7 @@
   month  = {19 Jul 2010},
   year   = {2010},
   note   = {Outreach presentation},
-  date   = {19 Jul 2010},
+  date   = {2010-07-19},
   type   = {Outreach presentation},
 }
 
@@ -931,7 +931,7 @@
   month  = {21 Jul 2010},
   year   = {2010},
   note   = {Outreach presentation},
-  date   = {21 Jul 2010},
+  date   = {2010-07-21},
   type   = {Outreach presentation},
 }
 
@@ -941,7 +941,7 @@
   month  = {23 Jul 2010},
   year   = {2010},
   note   = {Outreach presentation},
-  date   = {23 Jul 2010},
+  date   = {2010-07-23},
   type   = {Outreach presentation},
 }
 
@@ -951,7 +951,7 @@
   month  = {20 Nov 2009},
   year   = {2009},
   note   = {Outreach presentation},
-  date   = {20 Nov 2009},
+  date   = {2009-11-20},
   type   = {Outreach presentation},
 }
 
@@ -961,7 +961,7 @@
   month  = {9 Feb 2010},
   year   = {2010},
   note   = {Outreach presentation},
-  date   = {9 Feb 2010},
+  date   = {2010-02-09},
   type   = {Outreach presentation},
 }
 
@@ -971,7 +971,7 @@
   month  = {21 Sept 2010},
   year   = {2010},
   note   = {Outreach presentation},
-  date   = {21 Sept 2010},
+  date   = {2010-09-21},
   type   = {Outreach presentation},
 }
 
@@ -981,7 +981,7 @@
   month  = {19 July 2011},
   year   = {2011},
   note   = {Outreach presentation},
-  date   = {19 July 2011},
+  date   = {2011-07-19},
   type   = {Outreach presentation},
 }
 
@@ -991,7 +991,7 @@
   month  = {Feb 2012},
   year   = {2012},
   note   = {Outreach presentation},
-  date   = {Feb 2012},
+  date   = {2012-02},
   type   = {Outreach presentation},
 }
 ﻿
